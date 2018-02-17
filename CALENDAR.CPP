@@ -1,8 +1,7 @@
 	/* This is a program which accepts any month and year,
 	   displays the calendar.
-	   Created By: Debabrata Das
-	   Dated: 04/05/2004
-	   Last Modified: 04/01/2005				*/
+	   Created By: Kritika
+	   Dated: 17/02/2018			*/
 #include <stdio.h>
 #include <conio.h>
 #include <stdlib.h>
